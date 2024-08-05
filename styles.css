@@ -1,1 +1,25 @@
-/* Write your CSS here! */
+#mainHeading {
+  color: red;
+}
+
+#testP {
+  font-weight: 600;
+}
+
+#main-img {
+  max-width: 60%;
+  height: auto;
+}
+
+.header-text {
+  color: blueviolet;
+}
+
+.funParagraph {
+  color: green;
+}
+
+body {
+  margin: 8px;
+  display: block;
+}
